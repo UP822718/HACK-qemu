@@ -1,2 +1,2 @@
-# WIll_lang
-# Will_lang
+# qemu hack
+a little proeject the was REC optraing systmes
